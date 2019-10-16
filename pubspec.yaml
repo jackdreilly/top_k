@@ -1,0 +1,13 @@
+name: top_k
+version: 1.0.0
+description: >-
+  Returns top k elements from unsorted iterable of comparables.
+author: Jack Reilly <jackdreilly@gmail.com>
+homepage: https://github.com/jackdreilly/top_k
+documentation: https://github.com/jackdreilly/top_k
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  collection: ^1.14.12
+dev_dependencies:
+  test:

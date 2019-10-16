@@ -1,0 +1,7 @@
+name: top_k_example
+version: 1.0.0
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  top_k:
+    path: ../
